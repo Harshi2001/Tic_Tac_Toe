@@ -1,5 +1,4 @@
 # Tic_Tac_Toe
-
 This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript
 .
 # How to play:
@@ -15,6 +14,9 @@ The project contains the following files:
 
 index.html: the main HTML file that contains the input page with its internal css and javascript.
 gameboard.html: Its in the next page that contain the game board with  its internal css and javascript code.
+
+#deploy :
+https://verdant-khapse-1276b4.netlify.app/
 
 # Contribution
 Contributions to this project are welcome! If you find any bugs or issues, feel free to open a new issue on this repository.
